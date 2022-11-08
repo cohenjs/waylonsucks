@@ -1,0 +1,29 @@
+link {
+  display: none;
+}
+
+body{
+  background-image: url(http://data.whicdn.com/images/156440378/original.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hobbies {
+  padding-left:40px;
+  background-color: brown;
+  background-color: rgba(153,76,0,.9);
+  color: white;
+}
+
+.intro {
+  background-color: brown;
+  background-color: rgba(153,76,0,.9);
+  color: white;
+}
+
+.skills {
+  padding-left:40px;
+  background-color: brown;
+  background-color: rgba(153,76,0,.9);
+  color: white;
+}
