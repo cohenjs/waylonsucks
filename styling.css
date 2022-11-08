@@ -13,6 +13,7 @@ body{
 }
 
 .hobbies {
+  font-family: Papyrus, fantasy;
   padding-left:40px;
   background-color: brown;
   background-color: rgba(153,76,0,.9);
@@ -20,13 +21,14 @@ body{
 }
 
 .intro {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: Papyrus, fantasy;
   background-color: brown;
   background-color: rgba(153,76,0,.9);
   color: white;
 }
 
 .skills {
+  font-family: Papyrus, fantasy;
   padding-left:40px;
   background-color: brown;
   background-color: rgba(153,76,0,.9);
