@@ -3,14 +3,13 @@ link {
 }
 
 html * {
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 body{
   background-image: url(http://data.whicdn.com/images/156440378/original.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: Copperplate, Papyrus, fantasy;
 }
 
 .hobbies {
