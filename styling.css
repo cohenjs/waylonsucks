@@ -2,8 +2,8 @@ link {
   display: none;
 }
 
-* {
-  font-family: papyrus, fantasy;
+html * {
+  font-family: papyrus, fantasy !important;
 }
 
 body{
