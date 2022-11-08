@@ -20,6 +20,7 @@ body{
 }
 
 .intro {
+  font-family: "Lucida Console", "Courier New", monospace;
   background-color: brown;
   background-color: rgba(153,76,0,.9);
   color: white;
